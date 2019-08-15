@@ -3,6 +3,8 @@ body {
 	font-family: sans-serif;
 	margin: 0;
 	padding: 0;
+	overflow-y: scroll;
+	overflow-x: hidden;
 }
 
 * {
@@ -37,6 +39,21 @@ nav.nav-2>ul {
 	display: inline-block;
 	background: #ddd;
 	border-radius: 5px;
+}
+
+nav.nav-2>ul>li:first-child:hover {
+	background: transparent;
+	border-radius: 5px;
+}
+
+nav.nav-2>ul>li:first-child > a {
+	font-weight: bold;
+	color: #51AD51;
+}
+
+nav.nav-2>ul>li:first-child:hover > a {
+	font-weight: bold;
+	color: #66DA66;
 }
 
 nav.nav-2>ul>li {
@@ -166,4 +183,12 @@ pre code {
 	background: transparent;
 	border: none;
 	border-radius: 0;
+}
+
+table.members thead tr th {
+	text-align: left;
+}
+
+table.members tbody tr td, table.members thead tr th {
+	padding: 5px;
 }

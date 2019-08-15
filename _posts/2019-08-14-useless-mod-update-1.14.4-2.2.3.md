@@ -2,10 +2,11 @@
 layout: "post"
 title: "Useless Mod Update (1.14.4-2.2.3)"
 categories: "uselessmod update"
-permalink: /:categories/1.14.4-2.2.3.html
+permalink: /:categories/1.14.4-2.2.3/
 ---
 
-A new update of the Useless Mod has been releases!
+A new update of the Useless Mod has been released!  
+This is probably the biggest update for MC-1.14.4
 
 ## Changelog
 #### New features

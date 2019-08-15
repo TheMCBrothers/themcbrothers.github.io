@@ -2,13 +2,13 @@
 layout: page
 title: Test Page
 description: A test site
-in_nav: true
+in_nav: false
 ---
 
 <p>This is a test page</p>
 
 {% for file in site.static_files %}
   {% if file.image %}
-    <img src="{{file.path}}" alt="{{file.name}}" style="max-width: 970px">
+    <img src="{{file.path | relative_url}}" alt="{{file.name}}" style="max-width: 970px">
   {% endif %}
 {% endfor %}
