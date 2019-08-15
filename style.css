@@ -70,7 +70,7 @@ nav.nav-2>ul>li a.active {
 .header-image {
 	position: relative;
 	background-color: #222222;
-	background-image: url("/assets/img/banner.png");
+	background-image: url("assets/img/banner.png");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -90,7 +90,7 @@ nav.nav-2>ul>li a.active {
 	width: 90%;
 	height: 120px;
 	background-color: transparent;
-	background-image: url("/assets/img/logo.png");
+	background-image: url("assets/img/logo.png");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
