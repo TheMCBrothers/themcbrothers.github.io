@@ -7,8 +7,8 @@ in_nav: false
 
 <p>This is a test page</p>
 
-{% for file in site.static_files %}
+{%- for file in site.static_files -%}
   {% if file.image %}
     <img src="{{file.path | relative_url}}" alt="{{file.name}}" style="max-width: 970px">
-  {% endif %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}
