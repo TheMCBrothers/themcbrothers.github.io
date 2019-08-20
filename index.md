@@ -7,8 +7,12 @@ layout: home
 
 [![Curseforge](https://cf.way2muchnoise.eu/full_322455_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod) [![Curseforge](https://cf.way2muchnoise.eu/versions/For%20MC_322455_all.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod)
 
-`Useless Mod is a mod by TheMCBros for Forge`<br /><br />
+`Useless Mod is a mod by TheMCBros for Forge`
+
 [View on CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod)  
 [View on GitHub](https://github.com/TheMCBrothers/UselessMod)  
 
-On this site, you can find all information about the Useless Mod.
+<p>On this site, you can find all information about the Useless Mod.</p>
+
+
+{%- include uselessmodupdates.html -%}

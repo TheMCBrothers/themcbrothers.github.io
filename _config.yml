@@ -38,6 +38,13 @@ defaults:
       in_nav: false
   -
     scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      uselessmod: false
+  -
+    scope:
       path: "assets/img"
     values:
       image: true
