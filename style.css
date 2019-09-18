@@ -29,69 +29,6 @@ a:hover {
 	color: #66DA66;
 }
 
-nav.nav-2 {
-	z-index: 10;
-	font-family: sans-serif;
-	text-align: center;
-	position: sticky;
-	top: 0;
-	width: 100%;
-	height: 40px;
-	background: #ddd;
-}
-
-nav.nav-2>ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-	display: inline-block;
-	background: #ddd;
-	border-radius: 5px;
-}
-
-nav.nav-2>ul>li:first-child:hover {
-	background: transparent;
-	border-radius: 5px;
-}
-
-nav.nav-2>ul>li:first-child > a {
-	font-weight: bold;
-	color: #51AD51;
-}
-
-nav.nav-2>ul>li:first-child:hover > a {
-	font-weight: bold;
-	color: #66DA66;
-}
-
-nav.nav-2>ul>li {
-	display: list-item;
-	float: left;
-	position: relative;
-	transition: background .5s ease;
-}
-nav.nav-2>ul>li:hover {
-	background: #d5d5d5;
-	border-radius: 5px;
-}
-
-nav.nav-2>ul>li a {
-	display: block;
-	box-sizing: border-box;
-	height: 40px;
-	line-height: 40px;
-	padding: 0 30px;
-	text-transform: uppercase;
-	font-size: 14px;
-	text-decoration: none;
-	color: rgba(0, 0, 0, 0.7);
-}
-
-nav.nav-2>ul>li a.active {
-	background: #fff;
-	color: #000;
-}
-
 .header-image {
 	position: relative;
 	background-color: #222222;
@@ -214,4 +151,88 @@ div.post-container {
 div.post-container.small {
 	clear: both;
 	width: 100%;
+}
+
+.menu-trigger {
+	display: none;
+}
+
+/* NAVIGATION MENU */
+nav.nav-2 {
+	z-index: 10;
+	font-family: sans-serif;
+	text-align: center;
+	position: sticky;
+	top: 0;
+	width: 100%;
+	height: 40px;
+	background: #ddd;
+}
+
+nav.nav-2>ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+	background: #ddd;
+	border-radius: 5px;
+}
+
+nav.nav-2>ul>li:first-child:hover {
+	background: transparent;
+	border-radius: 5px;
+}
+
+nav.nav-2>ul>li:first-child > a {
+	font-weight: bold;
+	color: #51AD51;
+}
+
+nav.nav-2>ul>li:first-child:hover > a {
+	font-weight: bold;
+	color: #66DA66;
+}
+
+nav.nav-2>ul>li {
+	display: list-item;
+	float: left;
+	position: relative;
+	transition: background .5s ease;
+}
+nav.nav-2>ul>li:hover {
+	background: #d5d5d5;
+	border-radius: 5px;
+}
+
+nav.nav-2>ul>li a {
+	display: block;
+	box-sizing: border-box;
+	height: 40px;
+	line-height: 40px;
+	padding: 0 30px;
+	text-transform: uppercase;
+	font-size: 14px;
+	text-decoration: none;
+	color: rgba(0, 0, 0, 0.7);
+}
+
+nav.nav-2>ul>li a.active {
+	background: #fff;
+	color: #000;
+}
+
+@media screen and (max-width: 480px) {
+	nav.nav-2>ul>li {
+		float: none;
+		border-bottom: 2px solid #d5dce4;
+	}
+
+	nav.nav-2>ul>li:last-child {
+		border-bottom: none;
+	}
+
+	.menu-trigger {
+		display: block;
+	}
+
 }

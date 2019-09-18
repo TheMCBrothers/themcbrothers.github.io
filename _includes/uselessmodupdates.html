@@ -1,5 +1,5 @@
 
-{%- assign uposts = site.posts | where: "uselessmod", "true" -%}
+{%- assign uposts = site.posts | where: "uselessmod", "true" | where: "upublished", "true" -%}
 {%- if uposts.size > 0 -%}
 
 <div class="post-container small">
