@@ -5,8 +5,6 @@ categories: "uselessmod update"
 permalink: /:categories/1.14.4-2.2.4/
 updateversion: "1.14.4-2.2.4"
 uselessmod: true
-upublished: true
-date: 2019-09-17 00:00:00 +0200
 ---
 
 A new update of the Useless Mod has been released!
@@ -56,6 +54,6 @@ This is really **The Biggest Update Ever!**
 **NOTE:**
 To support BOP closets, Biomes O 'Plenty 1.14.4-9.0.0.242+ is required.
 Otherwise you have missing textures
-  
+
 **Recommended Forge Version: 28.1.1+**  
 **Required Forge Version: 28.1.0+**
