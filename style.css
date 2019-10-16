@@ -165,7 +165,6 @@ nav.nav-2 {
 	position: sticky;
 	top: 0;
 	width: 100%;
-	height: 40px;
 	background: #ddd;
 }
 
@@ -221,19 +220,38 @@ nav.nav-2 > ul > li a.active {
 	color: #000;
 }
 
+/* SMALL SCREENS */
 @media screen and (max-width: 700px) {
-	nav.nav-2 > ul > li {
-		display: block;
-		width: 100%;
-		border-bottom: 2px solid #d5dce4;
-	}
 
+	/* NAVIGATION */
+	nav.nav-2 {
+		position: absolute;
+	}
+	nav.nav-2 > ul > li {
+		width: 100%;
+		display: block;
+		float: left;
+		position: relative;
+	}
 	nav.nav-2 > ul > li:last-child {
 		border-bottom: none;
 	}
 
 	.menu-trigger {
 		display: block;
+	}
+
+}
+
+/* PRINT */
+@media print {
+
+	div.header-image {
+		display: none;
+	}
+
+	nav.nav-2 {
+		display: none;
 	}
 
 }
