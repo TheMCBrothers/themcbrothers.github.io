@@ -220,7 +220,7 @@ nav.nav-2 > ul > li a.active {
 
 	/* NAVIGATION */
 	nav.nav-2 {
-		position: absolute;
+		position: relative;
 	}
 	nav.nav-2 > ul > li {
 		width: 100%;
@@ -232,8 +232,9 @@ nav.nav-2 > ul > li a.active {
 		border-bottom: none;
 	}
 
-	.menu-trigger {
-		display: block;
+	section {
+		padding-left: 5px;
+		padding-right: 5px;
 	}
 
 	div.post-container {
