@@ -148,11 +148,6 @@ div.post-container {
 	width: 50%;
 }
 
-div.post-container.small {
-	clear: both;
-	width: 100%;
-}
-
 .menu-trigger {
 	display: none;
 }
@@ -241,10 +236,20 @@ nav.nav-2 > ul > li a.active {
 		display: block;
 	}
 
+	div.post-container {
+		clear: both;
+		width: 100%;
+	}
+
 }
 
 /* PRINT */
 @media print {
+
+	div.post-container {
+		clear: both;
+		width: 100%;
+	}
 
 	div.header-image {
 		display: none;
