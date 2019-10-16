@@ -204,7 +204,7 @@ nav.nav-2>ul>li:hover {
 	border-radius: 5px;
 }
 
-nav.nav-2>ul>li a {
+nav.nav-2 > ul > li a {
 	display: block;
 	box-sizing: border-box;
 	height: 40px;
@@ -216,18 +216,19 @@ nav.nav-2>ul>li a {
 	color: rgba(0, 0, 0, 0.7);
 }
 
-nav.nav-2>ul>li a.active {
+nav.nav-2 > ul > li a.active {
 	background: #fff;
 	color: #000;
 }
 
-@media screen and (max-width: 480px) {
-	nav.nav-2>ul>li {
-		float: none;
+@media screen and (max-width: 700px) {
+	nav.nav-2 > ul > li {
+		display: block;
+		width: 100%;
 		border-bottom: 2px solid #d5dce4;
 	}
 
-	nav.nav-2>ul>li:last-child {
+	nav.nav-2 > ul > li:last-child {
 		border-bottom: none;
 	}
 

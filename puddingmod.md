@@ -6,10 +6,10 @@ permalink: /puddingmod/
 redirect_from: /puddingmod.html
 ---
 
-[View on GitHub](https://github.com/TheMCBrothers/PuddingMod)  
-[View on CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbros-pudding-mod)  
-[Documentation]({{"/docs/puddingmod/" | relative_url}})
+[Pudding Mod on GitHub](https://github.com/TheMCBrothers/PuddingMod)  
+[Pudding Mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbros-pudding-mod)  
+[Pudding Mod Wiki](https://github.com/TheMCBrothers/PuddingMod/wiki)
 
 <p></p>
 
-/*{%- include uselessmodupdates.html -%}*/
+{%- include puddingmodupdates.html -%}
