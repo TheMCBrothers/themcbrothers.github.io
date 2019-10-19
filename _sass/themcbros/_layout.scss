@@ -333,10 +333,6 @@ nav.nav-2 {
  * Grid helpers
  */
 @media screen and (min-width: $on-large) {
-  div.post-container.one-half {
-    clear: both;
-    display: block;
-  }
   .one-half {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
     width:         calc(50% - (#{$spacing-unit} / 2));
