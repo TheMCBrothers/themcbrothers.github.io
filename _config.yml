@@ -22,6 +22,35 @@ url: "https://themcbros.tk" # the base hostname & protocol for your site, e.g. h
 twitter_username: jekyllrb
 github_username:  TheMCBrothers
 
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    # twitter: TheMCBrothers
+    github:  TheMCBrothers
+    # rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: TheMCBrothers
+    youtube_channel: UCHvxVedh_dstI0cVwubzvRw
+    # youtube_channel_name: TheMCBrothers
+    # telegram: jekyll
+    googleplus: TheMCBrothers
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -44,6 +73,7 @@ defaults:
       layout: "post"
       upublished: true
       uselessmod: false
+      puddingmod: false
   -
     scope:
       path: "assets/img"

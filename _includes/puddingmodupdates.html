@@ -2,7 +2,7 @@
 {%- assign uposts = site.posts | where: "puddingmod", "true" | where: "upublished", "true" -%}
 {%- if uposts.size > 0 -%}
 
-<div class="post-container">
+<div class="post-container one-half">
   <h2 class="post-list-heading">{{ page.list_title | default: "Pudding Mod Posts" }}</h2>
   <ul class="post-list">
     {%- for post in uposts -%}

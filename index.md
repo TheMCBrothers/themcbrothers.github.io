@@ -1,18 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-[![Curseforge](https://cf.way2muchnoise.eu/full_322455_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod) [![Curseforge](https://cf.way2muchnoise.eu/versions/For%20MC_322455_all.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod)
+Here you can find all information about our mods!
 
-`Useless Mod is a mod by TheMCBros for Forge`
+## Mods
+[Useless Mod]({{"/uselessmod/" | relative_url}})  
+[Pudding Mod]({{"/puddingmod/" | relative_url}})  
+[TheMCBrothers Interior Mod]({{"/interiormod/" | relative_url}})
 
-[View on CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod)  
-[View on GitHub](https://github.com/TheMCBrothers/UselessMod)  
-
-<p>On this site, you can find all information about the Useless Mod.</p>
-
+<p></p>
 
 {%- include uselessmodupdates.html -%}
+
+{%- include puddingmodupdates.html -%}
