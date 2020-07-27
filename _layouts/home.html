@@ -10,7 +10,7 @@ layout: default
     {{ content }}
 
     <div class="post-container one-half">
-    {%- assign posts = site.posts | where: "uselessmod", "false" | where: "puddingmod", "false" -%}
+    {%- assign posts = site.posts | where: "is_mod_post", "false" | where: "unpublished", "false" -%}
     {%- if posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">

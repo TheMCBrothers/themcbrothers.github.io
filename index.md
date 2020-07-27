@@ -11,6 +11,8 @@ Here you can find all information about our mods!
 
 <p></p>
 
-{%- include uselessmodupdates.html -%}
+{%- include uselessmod_posts.html -%}
 
-{%- include puddingmodupdates.html -%}
+{%- include puddingmod_posts.html -%}
+
+{%- include interiormod_posts.html -%}

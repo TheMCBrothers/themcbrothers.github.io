@@ -1,9 +1,9 @@
 ---
 layout: "post"
-title: "Useless Mod Update (1.14.4-2.2.1)"
-categories: "uselessmod update"
-permalink: /:categories/1.14.4-2.2.1/
-uselessmod: true
+title: "Useless Mod Update (2.2.1 for 1.14.4)"
+categories: "uselessmod update 1.14.4"
+permalink: /:categories/2.2.1/
+is_mod_post: true
 ---
 
 A new update of the Useless Mod has been released!

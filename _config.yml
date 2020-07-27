@@ -18,7 +18,7 @@ email: themcbrothers2016@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The home of the Useless Mod.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://themcbros.tk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  TheMCBrothers
 
@@ -27,7 +27,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: TheMCBrothers
+    twitter: TheMCBrothers1
     github:  TheMCBrothers
     # rss: rss
     # dribbble: jekyll
@@ -71,9 +71,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      upublished: true
-      uselessmod: false
-      puddingmod: false
+      unpublished: false
+      archived: false
+      is_mod_post: false
   -
     scope:
       path: "assets/img"
