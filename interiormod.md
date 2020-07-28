@@ -7,7 +7,9 @@ redirect_from: /interiormod.html
 list_title: "Mod Posts"
 ---
 
-[![Curseforge](https://cf.way2muchnoise.eu/full_344424_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod) [![Curseforge](https://cf.way2muchnoise.eu/versions/For%20MC_344424_all.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-pudding-mod)
+![Interior Mod Logo]({{ "/assets/img/logo/interiormod.png" | relative_url }})
+
+[![Curseforge](https://cf.way2muchnoise.eu/full_344424_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod) [![Curseforge](https://cf.way2muchnoise.eu/versions/For%20MC_344424_all.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod)
 
 [TheMCBrothers Interior Mod on GitHub](https://github.com/TheMCBrothers/Interior-Mod)  
 [TheMCBrothers Interior Mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod)  
