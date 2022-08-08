@@ -17,6 +17,8 @@ gem "jekyll"
 gem "minimal-mistakes-jekyll"
 gem "jekyll-archives"
 gem "jekyll-redirect-from"
+gem 'wdm', '>= 0.1.0'
+gem "webrick", "~> 1.7"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"

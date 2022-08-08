@@ -16,12 +16,12 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "en-US"
-title: "TheMCBrothers"
+title: "TheMCBrothers Blog"
 title_separator: "-"
 subtitle: "Home of the Useless Mod"
 name: "TheMCBrothers"
-description: "This is our website and the Home of the Useless Mod."
-url: "https://themcbrothers.github.io"
+description: "This is our blog and the home of our Minecraft Mods."
+url: "https://blog.themcbrothers.net"
 baseurl: "/"
 repository: "TheMCBrothers/themcbrothers.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -78,7 +78,7 @@ naver_site_verification:
 
 # Social Sharing
 twitter:
-  username:
+  username: TheMCBrothers1
 facebook:
   username:
   app_id:
@@ -105,7 +105,7 @@ author:
   avatar: "/assets/img/avatar/TheMCBrothers.png"
   bio: "We live **Minecraft**."
   location: "Switzerland"
-  email: "themcbrothers2016@gmail.com"
+  email: "contact@themcbrothers.net"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -171,7 +171,7 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
+encoding: "UTF-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
