@@ -9,6 +9,6 @@ redirect_from: /puddingmod/
 
 [![Curseforge](https://cf.way2muchnoise.eu/full_339834_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-pudding-mod) [![Curseforge](https://cf.way2muchnoise.eu/versions/For%20MC_339834_all.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbros-pudding-mod)
 
-[Pudding Mod on GitHub](https://github.com/TheMCBrothers/PuddingMod)  
-[Pudding Mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbros-pudding-mod)  
+[Pudding Mod on GitHub](https://github.com/TheMCBrothers/Pudding-Mod)  
+[Pudding Mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/pudding-mod)  
 [Pudding Mod Wiki](https://github.com/TheMCBrothers/PuddingMod/wiki)
