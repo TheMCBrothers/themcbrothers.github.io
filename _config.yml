@@ -105,7 +105,7 @@ author:
   avatar: "/assets/img/avatar/TheMCBrothers.png"
   bio: "We live **Minecraft**."
   location: "Switzerland"
-  email: "contact@themcbrothers.net"
+  email: "info@themcbrothers.net"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -118,7 +118,7 @@ author:
       url: "https://instagram.com/themcbrothers2016"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://bit.ly/TheMCBrothersYT"
+      url: "https://www.youtube.com/@TheMCBrothers"
 
 # Site Footer
 footer:
@@ -134,7 +134,7 @@ footer:
       url: "https://instagram.com/themcbrothers2016"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://bit.ly/TheMCBrothersYT"
+      url: "https://www.youtube.com/@TheMCBrothers"
 
 
 # Reading Files

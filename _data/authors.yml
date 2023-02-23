@@ -6,7 +6,7 @@ TheMCLoveMan:
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/TheMCLoveMan"
+      url: "https://www.youtube.com/@TheMCLoveMan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TheMCLoveMan"
@@ -18,11 +18,11 @@ TheMCCrazyMan:
   name: "TheMCCrazyMan"
   bio: "Textures are my thing!"
   avatar: "/assets/img/avatar/TheMCCrazyMan.png"
-  location: "Artist"
+  location: "Developer & Artist"
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://bit.ly/TheMCCrazyMan"
+      url: "https://www.youtube.com/@TheMCCrazyMan"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TheMCCrazyMan"
