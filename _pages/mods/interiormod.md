@@ -7,12 +7,13 @@ redirect_from: /interiormod/
 ---
 
 ![Interior Mod Logo](https://i.imgur.com/M5I9XoN.png)
-[![Curseforge](https://cf.way2muchnoise.eu/full_344424_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod) [![Curseforge](https://cf.way2muchnoise.eu/versions/For%20MC_344424_all.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod)
 ![Forge Mod - useful furniture](https://i.imgur.com/H2QtFcS.png)
+[![Curseforge](https://cf.way2muchnoise.eu/full_344424_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod) [![Curseforge](https://cf.way2muchnoise.eu/versions/For%20MC_344424_all.svg)](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod)
 
-[TheMCBrothers Interior Mod on GitHub](https://github.com/TheMCBrothers/Interior-Mod)  
-[TheMCBrothers Interior Mod on CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod)  
-[TheMCBrothers Interior Mod Wiki](https://github.com/TheMCBrothers/Interior-Mod/wiki)
+[GitHub](https://github.com/TheMCBrothers/Interior-Mod) /
+[Wiki](https://github.com/TheMCBrothers/Interior-Mod/wiki) /
+[CurseForge](https://www.curseforge.com/minecraft/mc-mods/themcbrothers-interior-mod) /
+[Modrinth](https://modrinth.com/mod/themcbrothers-interior-mod)
 
 ## Interior Mod Posts
 {% for post in site.posts_interiormod reversed %}
