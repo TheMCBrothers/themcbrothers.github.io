@@ -14,14 +14,14 @@ Download **v8.1.0 for Minecraft 1.20.2**: [CurseForge](https://www.curseforge.co
 
 ## Changelog
 
-1.20.4: Please use [NeoForge] **20.4.70-beta** or later  
-1.20.2: Please use [NeoForge] **20.2.86** or later
+1.20.4: Please use [NeoForge] **20.4.70-beta** or newer and [TheMCBrosLib] **6.1.0** or newer  
+1.20.2: Please use [NeoForge] **20.2.86** or newer and [TheMCBrosLib] **5.1.0** or newer
 
-### Additions
-- Bucket with Paint
+The features are the same as on Minecraft 1.20.1 with minor changes.
 
 ### Changes
-- Added Spawn Eggs to the corresponding Creative Tab
+- Coffee Recipes now use `minecraft:water` fluid instead of the `#minecraft:water` fluid tag
+- Spawn Eggs can be found in the main **Useless Mod** creative tab
 
 ### Known Issues
 - Machine Supplier sync issues on dedicated servers
@@ -29,3 +29,4 @@ Download **v8.1.0 for Minecraft 1.20.2**: [CurseForge](https://www.curseforge.co
 - Useless Forest does not generate in the Overworld
 
 [NeoForge]: https://neoforged.net
+[TheMCBrosLib]: https://go.themcbrothers.net/lib
