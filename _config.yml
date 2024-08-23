@@ -107,15 +107,9 @@ author:
   location: "Switzerland"
   email: "info@themcbrothers.net"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/TheMCBrothers1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TheMCBrothers"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/themcbrothers2016"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@TheMCBrothers"
@@ -205,7 +199,7 @@ sass:
 permalink: /:categories/:year/:month/:day/:title:output_ext
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Zurich" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -238,10 +232,10 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
   # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
