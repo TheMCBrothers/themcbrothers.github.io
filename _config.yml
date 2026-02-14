@@ -67,7 +67,7 @@ archives:
     category: /:category/
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Outputting
@@ -95,6 +95,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 # Collections
 collections:

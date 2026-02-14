@@ -2,20 +2,17 @@ source "https://rubygems.org"
 
 #gem "jekyll", "~> 4.3.3"
 gem 'github-pages', group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
-
-# The following plugins are automatically loaded by the theme-gem:
-#   gem "jekyll-paginate"
-#   gem "jekyll-sitemap"
-#   gem "jekyll-gist"
-#   gem "jekyll-feed"
-#   gem "jekyll-include-cache"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-archives"
   gem "jekyll-redirect-from"
+  gem "jekyll-remote-theme"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-include-cache"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
