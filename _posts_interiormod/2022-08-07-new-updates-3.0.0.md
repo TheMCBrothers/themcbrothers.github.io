@@ -1,7 +1,7 @@
 ---
 title: "Interior Mod Updates for 1.18 and 1.19"
 excerpt: "The first released versions this year! Look what's new!"
-categories: "interiormod update"
+categories: ["interiormod", "update"]
 permalink: /:categories/update-3.0.0/
 toc: true
 ---

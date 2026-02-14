@@ -2,7 +2,6 @@ TheMCLoveMan:
   name: "TheMCLoveMan"
   bio: "I love coding mods for Minecraft!"
   avatar: "/assets/img/avatar/TheMCLoveMan.png"
-  location: "Lead Developer"
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
@@ -18,7 +17,6 @@ TheMCCrazyMan:
   name: "TheMCCrazyMan"
   bio: "Textures are my thing!"
   avatar: "/assets/img/avatar/TheMCCrazyMan.png"
-  location: "Developer & Artist"
   links:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"

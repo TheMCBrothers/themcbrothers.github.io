@@ -1,6 +1,27 @@
-# main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Mods"
-    url: /mods/
+    url: "/mods"
+  - title: "About"
+    url: "https://themcbrothers.net/about"
+
+sidebar:
+  - title: Mods
+    children:
+      - title: "Useless Mod (Modrinth)"
+        url: "https://modrinth.com/project/useless-mod"
+      - title: "Useless Mod (CurseForge)"
+        url: "https://www.curseforge.com/minecraft/mc-mods/themcbros-useless-mod"
+      - title: "Shared Advancements (Modrinth)"
+        url: "https://modrinth.com/project/shared-advancements"
+      - title: "Shared Advancements (CurseForge)"
+        url: "https://www.curseforge.com/minecraft/mc-mods/shared-advancements"
+  - title: Useful Mods
+    children:
+      - title: "Useful Foundation (Modrinth)"
+        url: "https://modrinth.com/project/useful-foundation"
+      - title: "Useful Foundation (CurseForge)"
+        url: "https://www.curseforge.com/minecraft/mc-mods/useful-foundation"
+      - title: "Useful Machinery (Modrinth)"
+        url: "https://modrinth.com/project/useful-machinery"
+      - title: "Useful Machinery (CurseForge)"
+        url: "https://www.curseforge.com/minecraft/mc-mods/useful-machinery"
