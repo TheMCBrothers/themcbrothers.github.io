@@ -1,6 +1,6 @@
 ---
 title: "Useless Mod Update (2.2.0 for 1.14.4)"
-categories: "uselessmod update 1.14.4"
+categories: ["uselessmod", "update", "1.14.4"]
 permalink: /:categories/2.2.0/
 ---
 

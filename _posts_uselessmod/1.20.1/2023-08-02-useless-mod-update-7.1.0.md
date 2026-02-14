@@ -1,6 +1,6 @@
 ---
 title: "Useless Mod Update (7.1.0 for 1.20.1)"
-categories: "uselessmod update 1.20.1"
+categories: ["uselessmod", "update", "1.20.1"]
 permalink: /:categories/7.1.0/
 ---
 

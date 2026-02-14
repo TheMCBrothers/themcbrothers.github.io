@@ -1,6 +1,6 @@
 ---
 title: "Interior Mod Update (2.0.0 for 1.15.2)"
-categories: "interiormod update 1.15.2"
+categories: ["interiormod", "update", "1.15.2"]
 permalink: /:categories/2.0.0/
 ---
 
